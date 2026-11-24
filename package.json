@@ -1,0 +1,1 @@
+{"description":"One deadpan excuse an AI agent gives for missing a deadline.","license":"MIT","name":"oneliner-excuse-entry","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
